@@ -1,7 +1,7 @@
 # Equation_Solver_python
 
 Do not alter the code without admin permision 
-If want to make any changes commint in new branch
+If want to make any changes commit in new branch
 
 
 ob = Quadratic("6Y=13.9X+8")
